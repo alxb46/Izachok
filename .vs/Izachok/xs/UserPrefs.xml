@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D308A5A1-53E0-435E-93C0-5C141C37D1B5}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Izachok PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Izachok/ColorIzachokCheck.cs">
+    <Files>
+      <File FileName="Izachok/Program.cs" Line="6" Column="1" />
+      <File FileName="Izachok/Colors.cs" Line="8" Column="13" />
+      <File FileName="Izachok/ColorIzachokCheck.cs" Line="16" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Izachok" expanded="True">
+            <Node name="Izachok" expanded="True">
+              <Node name="ColorIzachokCheck.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sasabojcev/Projects/Izachok/Izachok/Program.cs" relfile="Izachok/Program.cs" line="8" column="1" />
+      <Breakpoint file="/Users/sasabojcev/Projects/Izachok/Izachok/ColorIzachokCheck.cs" relfile="Izachok/ColorIzachokCheck.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

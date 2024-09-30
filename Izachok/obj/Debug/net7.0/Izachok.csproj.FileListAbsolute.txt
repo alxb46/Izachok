@@ -1,0 +1,14 @@
+/Users/sasabojcev/Projects/Izachok/Izachok/bin/Debug/net7.0/Izachok
+/Users/sasabojcev/Projects/Izachok/Izachok/bin/Debug/net7.0/Izachok.deps.json
+/Users/sasabojcev/Projects/Izachok/Izachok/bin/Debug/net7.0/Izachok.runtimeconfig.json
+/Users/sasabojcev/Projects/Izachok/Izachok/bin/Debug/net7.0/Izachok.dll
+/Users/sasabojcev/Projects/Izachok/Izachok/bin/Debug/net7.0/Izachok.pdb
+/Users/sasabojcev/Projects/Izachok/Izachok/obj/Debug/net7.0/Izachok.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasabojcev/Projects/Izachok/Izachok/obj/Debug/net7.0/Izachok.AssemblyInfoInputs.cache
+/Users/sasabojcev/Projects/Izachok/Izachok/obj/Debug/net7.0/Izachok.AssemblyInfo.cs
+/Users/sasabojcev/Projects/Izachok/Izachok/obj/Debug/net7.0/Izachok.csproj.CoreCompileInputs.cache
+/Users/sasabojcev/Projects/Izachok/Izachok/obj/Debug/net7.0/Izachok.dll
+/Users/sasabojcev/Projects/Izachok/Izachok/obj/Debug/net7.0/refint/Izachok.dll
+/Users/sasabojcev/Projects/Izachok/Izachok/obj/Debug/net7.0/Izachok.pdb
+/Users/sasabojcev/Projects/Izachok/Izachok/obj/Debug/net7.0/Izachok.genruntimeconfig.cache
+/Users/sasabojcev/Projects/Izachok/Izachok/obj/Debug/net7.0/ref/Izachok.dll
